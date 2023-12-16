@@ -1,0 +1,1 @@
+While I was making some modern login pages, I neeeded to blur my background and focus on the card on hover, I didn't know how to do that, as I carried out my reseacrh, I came across an article on Medium. It's the article that saved my work. I made these cards just to ensure I grasped the concepts well.
