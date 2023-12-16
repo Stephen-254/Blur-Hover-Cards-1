@@ -64,6 +64,8 @@ body{
     width: 600px;
     background-color: yellow;
     border-radius: 50px;
+    text-align: center;
+    padding-top: 50px;
 }
 
 .card-two{
@@ -71,6 +73,8 @@ body{
     width: 600px;
     background-color: orange;
     border-radius: 50px;
+    text-align: center;
+    padding-top: 50px;
 }
 
 .card-three{
@@ -78,4 +82,6 @@ body{
     width: 600px;
     background-color: tomato;
     border-radius: 50px;
+    text-align: center;
+    padding-top: 50px;
 }
